@@ -8,5 +8,5 @@ for(var i=1; i<2; i++) {
             document.getElementById('me').style.transitionDuration='2s';
             document.getElementById('me').style.transform='rotate(360deg)';
         };
-    }(i)),100);
+    }(i)),3000);
 }
